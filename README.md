@@ -2,4 +2,4 @@
 
 # Yekaterina Kostina
 
-# Github Pages: 
+# Github Pages: https://yekatya.github.io/Lab7_Starter/
