@@ -20,7 +20,7 @@ if ("serviceWorker" in navigator) {
 const CACHE_NAME = "lab-7-starter";
 
 let urlsToCache = [
-  "/",
+  "index.html",
   "scripts/main.js",
   "scripts/router.js",
   "styles/main.css",
